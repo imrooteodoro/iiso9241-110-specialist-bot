@@ -20,5 +20,8 @@
 
 > [!NOTE]
 > APÓS CONFIGURAR SUAR CREDENCIAIS NO ARQUIVO `.env`, instale as dependências necessárias da API: `pip install -r requirements.txt`. Logo em seguida, certifique-se que está com o Angular instalado no seu computador, e dentro do diretório frontend use o comando `ng serve`
-__________
+
+### ESBOÇO DA ARQUITETURA
+
+![](assets/ARQUITETURA.svg)
 
