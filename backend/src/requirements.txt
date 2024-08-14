@@ -3,5 +3,5 @@ python-dotenv==1.0.1
 werkzeug==2.0.3
 requests==2.26.0
 google-auth==1.35.0
-flask_cors==2.1.5
-
+flask_cors==4.0.1
+requests== 2.26.0
