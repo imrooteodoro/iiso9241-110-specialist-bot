@@ -24,4 +24,4 @@ def gethearthcontroller():
         user_id = session_id()  # Gera um único user_id para cada requisição get
         global historico_de_mensagens
         historico_de_mensagens.clear()
-        return  "LaskerBot Is Live"
+        return  "NBR ISO 9241-110 SPECIALIST BOT V 1.0"
