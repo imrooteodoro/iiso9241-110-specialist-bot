@@ -16,10 +16,10 @@
 ### TUTORIAL DE INSTALAÇÃO
 
 > [!IMPORTANT]
->  CONFIGURE o seu projeto no IAM do GCP, crie suas credenciais de acesso no IAM. Também é necessário ter um agente do Dialogflow ES
+>  CONFIGURE o seu projeto no IAM do GCP, crie suas credenciais de acesso no IAM. Também é necessário ter um agente do Dialogflow ES - ele está em um arquivo compactado dentro da pasta `bot`.
 
 > [!NOTE]
-> APÓS CONFIGURAR SUAR CREDENCIAIS NO ARQUIVO `.env`, instale as dependências necessárias da API: `pip install -r requirements.txt`. Logo em seguida, certifique-se que está com o Angular instalado no seu computador, e dentro do diretório frontend use o comando `ng serve`
+> APÓS CONFIGURAR SUAR CREDENCIAIS NO ARQUIVO `.env`, instale as dependências necessárias da API: `pip install -r requirements.txt`. Certifique-se que está com o NodeJs/Angular instalado no seu computador, dentro da pasta e dentro do diretório frontend use o comando `npm install` e posteriormente `ng serve`.
 
 ### ESBOÇO DA ARQUITETURA
 
